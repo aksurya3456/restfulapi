@@ -1,4 +1,5 @@
 # restfulapi
 
-Collection of dummy apis
+Collection of dummy APIs.
 
+Edited on github to pull in laptop.
